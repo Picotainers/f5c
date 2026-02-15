@@ -1,5 +1,5 @@
 # f5c
-Small, distroless-when-possible container for `f5c`.
+Small compatibility-focused container for `f5c`.
 
 ## how to use
 ```bash

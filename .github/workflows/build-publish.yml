@@ -1,4 +1,4 @@
-name: Build and Publish Distroless f5c
+name: Build and Publish f5c
 
 on:
   push:
