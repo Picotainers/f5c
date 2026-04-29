@@ -1,7 +1,12 @@
 # f5c
-Small compatibility-focused container for `f5c`.
+Source-built container for `f5c`.
 
-## how to use
+## Quick Usage
+
 ```bash
-docker run --rm -v "$(pwd):/data" picotainers/f5c:latest --help
+# Pull the image
+docker pull docker.io/picotainers/f5c:latest
+
+# Run the tool
+docker run --rm docker.io/picotainers/f5c:latest f5c --help
 ```
